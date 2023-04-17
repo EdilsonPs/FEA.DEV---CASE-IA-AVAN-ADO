@@ -1,2 +1,2 @@
-# FEA.DEV---CASE-IA-AVAN-ADO
+# FEA.DEV  CASE IA AVANCADO
 Processo seletivo para a entidade estudantil FEA.DEV - USP
